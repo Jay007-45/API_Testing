@@ -13,6 +13,7 @@ pipeline {
         	    bat "mvn -Denv=${params.env} -Dcucumber.options=@smoke,@fast test"
 
 
+
         }
     }
 
