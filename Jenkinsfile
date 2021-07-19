@@ -10,7 +10,7 @@ pipeline {
              	
            		echo "Tests wil be triggered for : ${params.env}"
                 bat "mvn -Denv=${params.env} test"
-        	    bat "mvn -Denv=${params.env} -Dcucumber.options=@smoke,@fast test"
+        	    bat "mvn -Denv=${params.env} -Dcucumber.options=@${params.type},@fast test"
 
 
 
