@@ -14,7 +14,6 @@ Feature: Amazon Search
     Then Product with name
     Then Order id is 12345
 
-
   @Smoke
   Scenario: Search a Product MacBook air #Data-MacBook#
     Given I have a search

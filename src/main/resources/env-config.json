@@ -1,0 +1,28 @@
+{
+  "dev":{
+    "databaseInfo":{
+      "name":"",
+      "username":"",
+      "password":""
+    },
+    "ftpInfo":{
+      "hostname":"35.226.105.165",
+      "port":"22",
+      "username":"sftpfiles",
+      "password":"sftpbuckzy"
+    }
+  },
+  "test":{
+    "databaseInfo":{
+      "name":"",
+      "username":"",
+      "password":""
+    },
+    "ftpInfo":{
+      "hostname":"35.226.105.165",
+      "port":"22",
+      "username":"sftpfiles",
+      "password":"sftpbuckzy"
+    }
+  }
+}

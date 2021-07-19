@@ -1,44 +1,38 @@
 {
-	"prod": {
-		"MacBook": {
-			"test": "prod",
-			"test1": "prod",
-			"test2": "prod",
-			"test3": "prod"
-		},
-		"MacBook1": {
-			"test": "MacBook1",
-			"test1": "MacBook1",
-			"test2": "MacBook1",
-			"test3": "MacBook1"
-		}
-	},
-	"dev": {
-		"MacBook": {
-			"test": "dev",
-			"test1": "dev",
-			"test2": "dev",
-			"test3": "dev"
-		},
-		"MacBook1": {
-			"test": "MacBook1",
-			"test1": "MacBook1",
-			"test2": "MacBook1",
-			"test3": "MacBook1"
-		}
-	},
-	"uat": {
-		"MacBook": {
-			"test": "uat",
-			"test1": "uat",
-			"test2": "uat",
-			"test3": "uat"
-		},
-		"MacBook1": {
-			"test": "MacBook1",
-			"test1": "MacBook1",
-			"test2": "MacBook1",
-			"test3": "MacBook1"
-		}
-	}
+  "prod": {
+    "MacBook": {
+      "test": "prod",
+      "test1": "prod",
+      "test2": "prod",
+      "test3": "prod"
+    },
+    "MacBook1": {
+      "test": "prodJK",
+      "test1": "prodJK",
+      "test2": "prodJK",
+      "test3": "prod"
+    }
+  },
+  "dev": {
+    "MacBook": {
+      "test": "dev",
+      "test1": "dev",
+      "test2": "dev",
+      "test3": "dev"
+    },
+    "MacBook1": {
+      "test": "prodJK",
+      "test1": "prodJK",
+      "test2": "prodJK",
+      "test3": "prod"
+    }
+  },
+  "uat": {
+    "MacBook": {
+      "test": "uat",
+      "test1": "uat",
+      "test2": "uat",
+      "test3": "uat"
+    }
+  }
 }
